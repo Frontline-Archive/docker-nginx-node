@@ -2,7 +2,7 @@ FROM nginx:1.9.2
 
 # Get dependancies for node install
 RUN apt-get update \
-	&& apt-get install -y curl git bzip2
+	&& apt-get install -y curl git bzip2 libfontconfig1-dev
 
 # Install Node
 ENV NODE_VERSION 0.12.4
