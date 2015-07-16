@@ -1,0 +1,11 @@
+{
+  "name": "nginx-node",
+  "version": "0.1.0",
+  "description": "NGINX and Node.js installed in a single image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "School Improvement Network",
+  "license": "(c) Copyright School Improvement Network"
+}
