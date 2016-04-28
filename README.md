@@ -3,7 +3,8 @@ Creates a docker image with NGINX and Node installed in it. Useful to serve up a
 
 Supported tags and respective `Dockerfile` links
 
-- `0.12.4` `latest` [(0.12.4/Dockerfile)](https://github.com/School-Improvement-Network/docker-nginx-node/blob/master/0.12.4/Dockerfile)
+- `0.12.4` [(0.12.4/Dockerfile)](https://github.com/sinet/docker-nginx-node/blob/master/0.12.4/Dockerfile)
+- `5.9.1` `latest` [(5.9.1/Dockerfile)](https://github.com/sinet/docker-nginx-node/blob/master/5.9.1/Dockerfile)
 
 ## Usage
 
